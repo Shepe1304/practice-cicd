@@ -73,7 +73,7 @@ export default function Instruments() {
             </tbody>
           </table>
         ) : (
-          <p className="text-gray-500 italic">No instruments found.</p>
+          <p className="text-gray-500 italic">No instruments found!!!</p>
         )}
       </div>
 
